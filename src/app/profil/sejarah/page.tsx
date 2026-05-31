@@ -19,8 +19,8 @@ export default function SejarahPage() {
         {/* Background Image & Overlay */}
         <div className="absolute inset-0">
           <img 
-            src="https://images.unsplash.com/photo-1562774053-701939374585?q=80&w=2000&auto=format&fit=crop" 
-            alt="Gedung Sekolah" 
+            src="/bg.png" 
+            alt="Background Gedung Sekolah" 
             className="w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-slate-900/60"></div>
